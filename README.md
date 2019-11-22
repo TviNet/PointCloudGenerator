@@ -23,3 +23,8 @@ r.generate_pt_clouds()
 4. The opendrive_file is located in "PointCloudGenerator/opendrive_files/"
 5. The output is generated to "PointCloudGenerator/output.json"
 6. Use the viewpointcloud.py script to visualize the point cloud data
+
+![Example-1](position1.PNG)
+*Example-1*
+![Example-2](position2.PNG)
+*Example-2*
