@@ -4,6 +4,8 @@ Code for our winning entry in the MBRDI CEA Virtual Drive Challenge
 
 Uploaded here are the scripts that provide added functionality to blensor[https://www.blensor.org/]
 
+The code essentially generates a 3D view of any road in blendor using the specifications from an opendrive format XML file and simulates a LIDAR. 
+
 Instructions for running:
 1. The whole program can be downloaded from here[https://drive.google.com/open?id=1fRSUaQCmDz9W81wDlHitvMMrWjLA4Gzb]
 2. Extract the PointCloudGenerator folder to any folder X and run the below script with the root as folder X.
